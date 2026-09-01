@@ -1,9 +1,0 @@
-{
-  "name": "momscare-alarm-worker",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Runs on a GitHub Actions schedule and sends Web Push alerts for due medicine doses.",
-  "dependencies": {
-    "web-push": "^3.6.7"
-  }
-}
